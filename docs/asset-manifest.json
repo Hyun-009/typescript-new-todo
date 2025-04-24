@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript-new-todo/static/css/main.df0c0f57.css",
+    "main.js": "/typescript-new-todo/static/js/main.f5e2de15.js",
+    "index.html": "/typescript-new-todo/index.html",
+    "main.df0c0f57.css.map": "/typescript-new-todo/static/css/main.df0c0f57.css.map",
+    "main.f5e2de15.js.map": "/typescript-new-todo/static/js/main.f5e2de15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0c0f57.css",
+    "static/js/main.f5e2de15.js"
+  ]
+}
